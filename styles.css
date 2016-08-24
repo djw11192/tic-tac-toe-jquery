@@ -1,0 +1,16 @@
+#container{
+  height: 674px;
+  width: 674px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+.boxes{
+  height:200px;
+  width: 200px;
+  background: green;
+  border: 1px solid black;
+  display:inline-block;
+  padding: 10px;
+  align: center;
+
+}
